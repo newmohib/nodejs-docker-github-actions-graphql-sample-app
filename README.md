@@ -5,6 +5,8 @@ docker build -t node-sample-app:1.0.0 .
 docker run -d -p 5001:5001 node-sample-app:1.0.0
 ```
 
+[Tutorial](https://www.youtube.com/watch?v=OeLnEB9FDpw)
+
 # Nodejs app with rest and graphql example
 
 An example of GraphQL queries/mutations with Node and Express js.
